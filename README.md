@@ -1,10 +1,9 @@
 Holding a Master’s degree in Cybersecurity from Sorbonne Université, I am a certified **OSCP+** professional with a focused background in penetration testing and programming.
 
-**CTF player** :
-- EC2 2025
-- Hackday Finalist 2024 & 2025
-- Midnight Flag CTF Finalist 2025
+Find more information about my work and technical background on my blog.
 
-Find more information about my work and technical background on my blog :
+Blog :
+- [leopoldabgn.github.io](https://leopoldabgn.github.io)
 
-[leopoldabgn.github.io](https://leopoldabgn.github.io)
+Write-ups : 
+- [leopoldabgn.github.io/writups](https://leopoldabgn.github.io/writups)
