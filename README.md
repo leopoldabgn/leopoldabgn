@@ -10,10 +10,7 @@ Holding a Master’s degree in Cybersecurity from Sorbonne Université, I am a c
 - Hackday Finalist 2024 & 2025
 - Midnight Flag CTF Finalist 2025
 
-Infrastructure and challenge designer for the 2024-2026 **AMSI CTF editions**:
-- **[AMSI CTF 2024](https://github.com/leopoldabgn/AMSI_CTF_2024)**:  Online  Event -  Open to global participants (Nov 2024)
-- **[AMSI CTF 2025](https://github.com/leopoldabgn/AMSI_CTF_2025)**:  On-site Event - Paris @ AFORP (June 2025)
-- **[AMSI CTF 2026](https://github.com/leopoldabgn/AMSI_CTF_2026)**:  On-site Event - Paris @ AFORP (April 2026)
+Infrastructure and challenge designer for the 2024-2026 **AMSI CTF editions**.
 
 Find more information about my work and technical background on my blog :
 
